@@ -1,10 +1,10 @@
-# DIY-Resume
+## DIY-Resume
 
 
 
 ### Live
 
-[try live]()
+[try live](http://stonehank.github.io/diy-resume-demo/)
 
 ### Feature
 
@@ -23,3 +23,5 @@ Typing your personal information and choose a template.
 > only support desktop view
 
 Use drag & drop to build/modify your resume.
+
+### Information
