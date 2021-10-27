@@ -4,7 +4,7 @@
 
 ### Live
 
-[try live](http://stonehank.github.io/diy-resume-live/)
+[try live](https://github.com/stonehank/diy-resume)
 
 ### Feature
 
